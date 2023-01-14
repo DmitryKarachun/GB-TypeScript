@@ -1,0 +1,23 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "http-server -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryKarachun/GB-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryKarachun/GB-TypeScript/issues"
+  },
+  "homepage": "https://github.com/DmitryKarachun/GB-TypeScript#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
